@@ -6,7 +6,7 @@ Backend for cpin-sports, une appli pour aider à se remettre au sport
 
 ## scénarios d'utilisation
 
-Depuus cette application, un utilisateur doit pouvoir :
+Depuis cette application, un utilisateur doit pouvoir :
 
 - se connecter à son compte
 - créer des programmes d'entrainement
